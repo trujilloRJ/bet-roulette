@@ -1,0 +1,6 @@
+color palette:
+- #D6EAF8
+- #3498DB
+- #F7F9F9
+- #5D6D7E
+- #2E4053
